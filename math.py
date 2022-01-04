@@ -3,9 +3,9 @@ def add(x,y):
     return x+y
 #Substract
 def substract(x,y):
-    return x-y     #on master branch
+    return x-y     
 #Multiplication
 def multiply(x,y):
-    return x*y      #on Bug456
+    return x*y      
 #Divide implementation
 def divide(x,y):
